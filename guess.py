@@ -1,6 +1,6 @@
 import random
 
-random_number=random.randint(1,10)
+random_number=random.randint(1,10)  #taking random input
 number=None
 
 while number != random_number:
