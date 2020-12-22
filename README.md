@@ -1,4 +1,1 @@
-# first
-nothing but a beginner's first repository to explore github
-
-You'll find nothing here 
+Added 2 basic python projects, will add more soon
